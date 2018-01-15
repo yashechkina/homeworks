@@ -6,4 +6,4 @@ You can contact me with [https://vk.com/yashechkina_n]
 
 ![alt-nastuha](https://pp.userapi.com/c840139/v840139091/632c8/EwpfFm8gTps.jpg)
 
-Join me on instagram! [www.instagram.com/just.nothing.special]
+Join me on instagram! [https://instagram.com/just.nothing.special]
