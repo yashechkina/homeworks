@@ -3,7 +3,7 @@
 
 Несколько слов о себе
 =================
-* Hello, my name is Nstya, I'm 17 years old, studying in Higher Schol of Economics, I love cooking, sleeping, eating and I've got a computer*
+Hello, my name is Nstya, I'm 17 years old, studying in Higher Schol of Economics, I love cooking, sleeping, eating and I've got a computer*
 
 Мои контактные данные
 ================
