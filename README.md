@@ -8,8 +8,6 @@ Hello, my name is Nstya, I'm 17 years old, studying in Higher Schol of Economics
 Мои контактные данные
 ================
 * [You can contact me with my VK accaount](https://vk.com/yashechkina_n)
-* [Join me on Instagram] (https://instagram.com/just.nothing.special)
-
 * Join me on instagram! [https://instagram.com/just.nothing.special]
 
 Место, дата рождения 
@@ -75,4 +73,4 @@ Hello, my name is Nstya, I'm 17 years old, studying in Higher Schol of Economics
 
 Жизненный девиз
 ================
-### Сохраняйте позитивный взгялд на жизнь в любой ситуации
+### Сохраняйте позитивный взгляд на жизнь в любой ситуации!!!
