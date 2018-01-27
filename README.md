@@ -7,8 +7,8 @@
 
 Мои контактные данные
 ================
-[You can contact me with my VK accaount](https://vk.com/yashechkina_n)
-Join me on instagram! [https://instagram.com/just.nothing.special]
+* [You can contact me with my VK accaount](https://vk.com/yashechkina_n)
+* Join me on instagram! [https://instagram.com/just.nothing.special]
 
 Место, дата рождения 
 ===================
@@ -43,7 +43,11 @@ Join me on instagram! [https://instagram.com/just.nothing.special]
 
 Любимые фильмы/сериалы
 ============
-* 
+* Секс в большом городе
+* Как я встретил вашу маму
+* Москва слезам не верит
+* Унесенные ветром
+* Игры разума
 
 Любимые музыкальные направления
 =============
@@ -51,7 +55,6 @@ Join me on instagram! [https://instagram.com/just.nothing.special]
 * Рэгги
 * Хип-хоп
 * R&B
-
 
 Любимые города
 =================
@@ -63,9 +66,11 @@ Join me on instagram! [https://instagram.com/just.nothing.special]
 ==============
 Завтрак|Обед|Ужин
 ---|:---:|---:
-Каша|Борщ|Отбивная
-Яичница|Щи|Курица с рисом
-Бутерброды с колбасой|Куриный суп|Макароны с сыром и котлеты
-Хлопья с молоком|Гаспачо|Стейк
+Фруктовый салад|Рис с курицей|Творог
+Яичница|Куриный суп|Гречка
+Творог|Тушеные овощи|Молоко и сырковая масса
+Хлопья с молоком|Индейка с рисом|Салат из свежих овощей
 
+Жизненный девиз
+================
 ### Сохраняйте позитивный взгялд на жизнь в любой ситуации
